@@ -1,0 +1,4 @@
+contacts> create Work
+contacts> log
+contacts> read_bin School.bin
+contacts> exit

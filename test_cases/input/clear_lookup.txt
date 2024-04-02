@@ -1,0 +1,6 @@
+contacts> create Work
+contacts> log
+contacts> lookup Louise
+contacts> clear
+contacts> lookup Louise
+contacts> exit

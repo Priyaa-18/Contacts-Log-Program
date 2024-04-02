@@ -1,0 +1,2 @@
+contacts> create Work
+contacts> exit

@@ -1,0 +1,17 @@
+CSCI 2021 Contact Log System
+Commands:
+  create <name>:            creates a new log with specified name
+  log:                      shows the name of the active contacts log
+  add <name> <phone> <zip>: adds a new contact
+  lookup <name>:            searches for a phone number by contact name
+  clear:                    resets current contacts log
+  print:                    shows all contacts in active log
+  write_text:               saves all contacts to text file
+  read_text <file_name>:    loads contacts from text file
+  write_bin:                saves all contacts to binary file
+  read_bin <file_name>:     loads contacts from binary file
+  exit:                     exits the program
+contacts> create Work
+contacts> add Sun 12345678901 55455
+Error: Invalid phone number and/or zip code
+contacts> exit

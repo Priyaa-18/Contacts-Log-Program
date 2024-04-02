@@ -1,0 +1,6 @@
+contacts> read_text University.txt
+contacts> write_bin
+contacts> clear
+contacts> read_text University.txt
+contacts> print
+contacts> exit

@@ -1,0 +1,6 @@
+contacts> read_bin Directory.bin
+contacts> write_text
+contacts> clear
+contacts> read_text Directory.txt
+contacts> print
+contacts> exit

@@ -1,0 +1,26 @@
+contacts> create Island
+contacts> add Sun 8553719460 90210
+contacts> add Jin 5413450354 97401
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> write_text
+contacts> clear
+contacts> print
+contacts> create Fellowship
+contacts> add Sam 6514501501 55076
+contacts> add Gimli 2182624166 55746
+contacts> add Merry 6514302955 55082
+contacts> add Gandalf 6512277888 55118
+contacts> add Boromir 7632085717 55448
+contacts> add Aragorn 6129644037 55408
+contacts> write_bin
+contacts> clear
+contacts> read_text Island.txt
+contacts> log
+contacts> print
+contacts> clear
+contacts> read_bin Fellowship.bin
+contacts> log
+contacts> print
+contacts> exit

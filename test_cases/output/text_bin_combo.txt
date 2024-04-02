@@ -1,0 +1,59 @@
+CSCI 2021 Contact Log System
+Commands:
+  create <name>:            creates a new log with specified name
+  log:                      shows the name of the active contacts log
+  add <name> <phone> <zip>: adds a new contact
+  lookup <name>:            searches for a phone number by contact name
+  clear:                    resets current contacts log
+  print:                    shows all contacts in active log
+  write_text:               saves all contacts to text file
+  read_text <file_name>:    loads contacts from text file
+  write_bin:                saves all contacts to binary file
+  read_bin <file_name>:     loads contacts from binary file
+  exit:                     exits the program
+contacts> create Island
+contacts> add Sun 8553719460 90210
+contacts> add Jin 5413450354 97401
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> write_text
+Contacts log successfully written to Island.txt
+contacts> clear
+contacts> print
+Error: You must create or load a contacts log first
+contacts> create Fellowship
+contacts> add Sam 6514501501 55076
+contacts> add Gimli 2182624166 55746
+contacts> add Merry 6514302955 55082
+contacts> add Gandalf 6512277888 55118
+contacts> add Boromir 7632085717 55448
+contacts> add Aragorn 6129644037 55408
+contacts> write_bin
+Contacts log successfully written to Fellowship.bin
+contacts> clear
+contacts> read_text Island.txt
+Contacts log loaded from text file
+contacts> log
+Island
+contacts> print
+All contacts in Island:
+Name: Hurley, Phone Number: 6516358273, Zip Code: 55113
+Name: Sun, Phone Number: 8553719460, Zip Code: 90210
+Name: Louise, Phone Number: 6126254002, Zip Code: 55455
+Name: Jin, Phone Number: 5413450354, Zip Code: 97401
+Name: Desmond, Phone Number: 9163777000, Zip Code: 95051
+contacts> clear
+contacts> read_bin Fellowship.bin
+Contacts log loaded from binary file
+contacts> log
+Fellowship
+contacts> print
+All contacts in Fellowship:
+Name: Merry, Phone Number: 6514302955, Zip Code: 55082
+Name: Boromir, Phone Number: 7632085717, Zip Code: 55448
+Name: Aragorn, Phone Number: 6129644037, Zip Code: 55408
+Name: Gimli, Phone Number: 2182624166, Zip Code: 55746
+Name: Gandalf, Phone Number: 6512277888, Zip Code: 55118
+Name: Sam, Phone Number: 6514501501, Zip Code: 55076
+contacts> exit

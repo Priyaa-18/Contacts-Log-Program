@@ -1,0 +1,16 @@
+contacts> read_bin Directory.bin
+contacts> log
+contacts> print
+contacts> lookup mtrtezmbeqhfuykdmtyjhqpphdw
+contacts> lookup knxmiihhhluvghuqxgmwflzxvp
+contacts> lookup jibxmigutihuwztc
+contacts> lookup vjymavegfm
+contacts> lookup jalacrcnenrhk
+contacts> lookup fpanidjllctje
+contacts> lookup Sayid
+contacts> lookup Sun
+contacts> lookup Mei
+contacts> lookup Charlie
+contacts> lookup tiugmtslgorv
+contacts> lookup Locke
+contacts> exit

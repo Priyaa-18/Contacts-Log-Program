@@ -1,0 +1,22 @@
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Sun 8553719460 90210
+contacts> add Jin 5413450354 97401
+contacts> add Hurley 6516358273 55113
+contacts> write_text
+contacts> clear
+contacts> print
+contacts> read_text Work.txt
+contacts> log
+contacts> print
+contacts> lookup Louise
+contacts> lookup Locke
+contacts> lookup Rousseau
+contacts> lookup Hurley
+contacts> lookup Jin
+contacts> lookup Desmond
+contacts> lookup Sun
+contacts> lookup Sun
+contacts> lookup Ben
+contacts> exit

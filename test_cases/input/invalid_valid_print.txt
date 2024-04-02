@@ -1,0 +1,4 @@
+contacts> print
+contacts> create Work
+contacts> print
+contacts> exit

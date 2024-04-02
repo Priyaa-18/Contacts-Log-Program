@@ -1,0 +1,2 @@
+contacts> read_text this_file_does_not_exist.txt
+contacts> exit

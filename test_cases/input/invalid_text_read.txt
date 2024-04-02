@@ -1,0 +1,4 @@
+contacts> create School
+contacts> log
+contacts> read_text Work.txt
+contacts> exit

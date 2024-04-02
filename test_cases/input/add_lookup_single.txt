@@ -1,0 +1,4 @@
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> lookup Louise
+contacts> exit

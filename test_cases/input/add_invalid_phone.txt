@@ -1,0 +1,3 @@
+contacts> create Work
+contacts> add Sun 9001 55455
+contacts> exit

@@ -1,0 +1,6 @@
+contacts> create School
+contacts> lookup Louise
+contacts> lookup Ben
+contacts> lookup Hurley
+contacts> lookup Nemo
+contacts> exit

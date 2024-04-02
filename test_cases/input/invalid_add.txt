@@ -1,0 +1,2 @@
+contacts> add Sun 6126254002 55455
+contacts> exit

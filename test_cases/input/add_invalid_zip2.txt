@@ -1,0 +1,3 @@
+contacts> create Work
+contacts> add Sun 6126254002 554551
+contacts> exit

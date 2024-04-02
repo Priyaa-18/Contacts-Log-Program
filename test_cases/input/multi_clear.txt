@@ -1,0 +1,29 @@
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> add Jin 5413450354 97401
+contacts> add Sun 8553719460 90210
+contacts> clear
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> add Jin 5413450354 97401
+contacts> add Sun 8553719460 90210
+contacts> clear
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> add Jin 5413450354 97401
+contacts> add Sun 8553719460 90210
+contacts> clear
+contacts> create Work
+contacts> add Louise 6126254002 55455
+contacts> add Desmond 9163777000 95051
+contacts> add Hurley 6516358273 55113
+contacts> add Jin 5413450354 97401
+contacts> add Sun 8553719460 90210
+contacts> clear
+contacts> exit

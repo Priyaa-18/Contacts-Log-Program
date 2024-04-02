@@ -1,0 +1,20 @@
+contacts> read_text University.txt
+contacts> log
+contacts> print
+contacts> lookup lggycl
+contacts> lookup ysfwbueqrgkqgpycwkeh
+contacts> lookup hlnkfwehob
+contacts> lookup aoozmgsiuhgahvkduqgudibu
+contacts> lookup nuzpw
+contacts> lookup doarnobog
+contacts> lookup Hurley
+contacts> lookup ehkhunnoqniv
+contacts> lookup yanbfnmkzgs
+contacts> lookup tnyewpeoevscwelol
+contacts> lookup xojvwffofqasygzbhdxrovv
+contacts> lookup Sun
+contacts> lookup vnpkammrdxjlmnxjpkacuftofc
+contacts> lookup bgesskahgnuocdccblnocyhfndegp
+contacts> lookup Nemo
+contacts> lookup Sayid
+contacts> exit
